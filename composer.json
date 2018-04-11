@@ -1,0 +1,11 @@
+{
+    "require": {
+        "cboden/ratchet": "^0.3.3",
+        "guzzlehttp/guzzle": "^3.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Chat\\": "bin/src/"
+        }
+    }
+}

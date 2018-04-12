@@ -9,6 +9,12 @@
     <br/>
 </p>
 
+## UML Data Flow Diagram
+<p align="center">
+    <img src="docs/img/dfd.png" align="center">
+    <br/>
+</p>
+
 
 ## Copyright and License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

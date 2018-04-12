@@ -5,8 +5,8 @@
 
 ## Documentations
 For further information regarding the process pipeline of the system, kindly check the following.
-* [UML Data Flow Diagram](docs/img/dfd.md)
-* [Database Entity Relationship](docs/img/erd.md)
+* [UML Data Flow Diagram](docs/dfd.md)
+* [Database Entity Relationship](docs/erd.md)
 
 ## Copyright and License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

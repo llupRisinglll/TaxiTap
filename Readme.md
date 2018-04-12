@@ -3,18 +3,10 @@
     Real-time taxi tracing system with driver-to-passenger smart contract powered with Google Maps API.
 </p>
 
-## Database Entity Relationship
-<p align="center">
-    <img src="docs/img/erd.png" align="center" height="150px">
-    <br/>
-</p>
-
-## UML Data Flow Diagram
-<p align="center">
-    <img src="docs/img/dfd.png" align="center">
-    <br/>
-</p>
-
+## Documentations
+For further information regarding the process pipeline of the system, kindly check the following.
+* [UML Data Flow Diagram](docs/img/dfd.md)
+* [Database Entity Relationship](docs/img/erd.md)
 
 ## Copyright and License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
